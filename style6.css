@@ -1,0 +1,36 @@
+body
+{
+    
+    background-image: url("k-meleon.png");
+    background-position: center;
+}
+p
+{
+  
+    color: white;
+    background-color:black;
+}
+#container
+{
+    border-inline-color: yellow;
+    inline-size: 60px;
+    font-style: serif;
+    font-size: 500%;
+    margin: auto;
+    height: 300px;
+    
+    padding: auto;
+    width: 750px;
+     display: -moz-box ;grid-auto-flow: column ;
+     -ms-layout-grid: auto;
+ 
+     
+    
+
+
+    }
+    #rpgbox
+    {
+        height: 150px;
+        width: 150px;
+    }

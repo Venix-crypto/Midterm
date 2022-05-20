@@ -1,0 +1,132 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: content-box;
+    border: 5px solid rgba(0, 0, 0, 0.848);
+    border-style: double;
+  
+}
+
+#division-tag
+{
+    font-size: 4rem;
+   
+    margin: auto;
+    border: auto;
+color: rgb(24, 57, 57);
+font-style: italic;
+
+}
+#division-tag:hover{
+    
+    color: rgb(88, 88, 23);
+    transition: color .5s ;
+
+}
+.class-tag
+{
+    font-size: 8rem;
+    padding: auto;
+    display: grid;
+color: blue;
+background-color:aqua ;
+}
+#blogpost{
+    grid-template-columns: auto;
+    display: row;
+    margin-top: 400px;
+    background-color: rgb(126, 15, 15);
+    block-size: auto;
+    
+   
+    width: 100%;
+}
+#container
+{
+    border-inline-color: yellow;
+    inline-size: 60px;
+    font-style: serif;
+    font-size: 500%;
+    margin: auto;
+    height: 300px;
+    background-color: blueviolet;
+    padding: auto;
+    width: 750px;
+     display: -moz-box ;grid-auto-flow: column ;
+     -ms-layout-grid: auto;
+ 
+     
+    
+
+    }
+    
+
+#its-friday
+{
+    height: 500px;
+    border: 20px;
+    border-style: groove;
+    grid-column: auto;
+background-color: brown;
+padding: auto;
+margin-top: 50px;;
+border-style: dotted;
+font-size: 12rem;
+}
+#fortheother
+{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.fergie
+{
+    background-color: black;
+    color: rgb(255, 0, 34);
+font-size: 2rem;
+
+
+
+}
+.fordrdoom
+{
+    height: 600px;
+ background-color: darkblue;
+}
+.forchunli
+{
+    width: 700px;
+    height:  650px fit-content fixed;
+   background-color: chocolate ;
+   position: center;
+}
+.blue{
+background-color: aqua;
+width: 900px;
+}
+
+body{
+    background-image: url("fog-forest-wallpaper.jpg");
+    background-position: center;
+    background-size: small;
+   
+
+}
+#Verytop
+{
+font-size: 12rem;
+}
+.grid-container
+{
+
+    display: grid table-column  ;
+    font-size: 6rem;
+ background-color: rgb(12, 12, 12);
+    
+    
+}
+.forblogs
+{
+    font-size: 2rem;
+    color: antiquewhite;
+}
